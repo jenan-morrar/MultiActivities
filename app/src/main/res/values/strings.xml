@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="this_is_main_page">This is Main Page</string>
+    <string name="move_to_next_page">Move to Next Page</string>
+    <string name="this_is_the_next_page">This is the next page</string>
+    <string name="return_page">return Page</string>
+    <string name="enter_your_name">Enter Your Name:</string>
+</resources>
